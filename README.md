@@ -34,7 +34,6 @@ Figma
 
 ## CODE:
 '''
-Home page:
 <!DOCTYPE html>
 <html>
   <head>
@@ -58,9 +57,8 @@ Home page:
     </div>
   </body>
 </html>
-'''
-Second Page:
-'''
+
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -73,9 +71,8 @@ Second Page:
     <div class="image"><img class="screenshot" src="img/screenshot-2025-12-25-213206-1.png" /></div>
   </body>
 </html>
-'''
-Third Page:
-'''
+
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -103,9 +100,8 @@ Third Page:
     </div>
   </body>
 </html>
-'''
-Fourth Page:
-'''
+
+
 <!DOCTYPE html>
 <html>
   <head>
