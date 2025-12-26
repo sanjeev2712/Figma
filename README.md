@@ -34,6 +34,7 @@ Figma
 
 ## CODE:
 '''
+Home page:
 <!DOCTYPE html>
 <html>
   <head>
@@ -58,6 +59,7 @@ Figma
   </body>
 </html>
 
+Second Page:
 
 <!DOCTYPE html>
 <html>
@@ -72,6 +74,7 @@ Figma
   </body>
 </html>
 
+Third Page:
 
 <!DOCTYPE html>
 <html>
@@ -101,6 +104,7 @@ Figma
   </body>
 </html>
 
+Fourth Page:
 
 <!DOCTYPE html>
 <html>
