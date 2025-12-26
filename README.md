@@ -34,8 +34,7 @@ Figma
 
 ## CODE:
 '''
-home page
-
+Home page:
 <!DOCTYPE html>
 <html>
   <head>
@@ -60,7 +59,7 @@ home page
   </body>
 </html>
 
-2nd page
+Second Page:
 
 <!DOCTYPE html>
 <html>
@@ -71,19 +70,11 @@ home page
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="iphone-pro-max">
-      <img class="screenshot" src="img/screenshot-2025-12-25-213206-1.png" />
-      <div class="CRICKET">CRICKET</div>
-      <div class="text-wrapper">Saveetha Sports Meet</div>
-      <div class="FOOTBALL">FOOTBALL</div>
-      <div class="BADMINTON">BADMINTON</div>
-      <div class="KABADI">KABADI</div>
-      <div class="div">VOLLEY BALL</div>
-    </div>
+    <div class="image"><img class="screenshot" src="img/screenshot-2025-12-25-213206-1.png" /></div>
   </body>
 </html>
 
-3rd page
+Third Page:
 
 <!DOCTYPE html>
 <html>
@@ -113,7 +104,7 @@ home page
   </body>
 </html>
 
-4th page
+Fourth Page:
 
 <!DOCTYPE html>
 <html>
@@ -132,6 +123,7 @@ home page
     </div>
   </body>
 </html>
+
 '''
 
 ## OUTPUT:
