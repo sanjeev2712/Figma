@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-'''
+```
 Home page:
 <!DOCTYPE html>
 <html>
@@ -123,7 +123,7 @@ Fourth Page:
     </div>
   </body>
 </html>
-'''
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-12-25 225504.png>)
